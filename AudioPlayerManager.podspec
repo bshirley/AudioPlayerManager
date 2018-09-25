@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hans Seiffert' => 'hans.seiffert@gmail.com' }
 
-  s.source           = { :git => 'https://github.com/tschob/AudioPlayerManager.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/bshirley/AudioPlayerManager.git', :tag => s.version.to_s }
 
   s.platform              = :ios
   s.ios.deployment_target = '8.0'
