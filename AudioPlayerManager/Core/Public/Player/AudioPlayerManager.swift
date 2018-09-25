@@ -310,7 +310,7 @@ open class AudioPlayerManager: NSObject {
 
 	// MARK: - Properties
 
-	var queueGeneration								= 0
+	open var queueGeneration								= 0
 
 	// MARK: - Initializaiton
 
